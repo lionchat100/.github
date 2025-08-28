@@ -42,7 +42,7 @@ Tokit은 멋쟁이사자처럼 전국 대학 해커톤 참가자들의 원활한
       <img width="400" alt="OAuth_Onboarding" src="https://github.com/user-attachments/assets/d02fa792-680d-42d7-9e53-eccd952abf87" />
     </td>
     <td align="center">
-      <img width="400" alt="Profile" src="https://github.com/user-attachments/assets/768c229c-316e-4c54-84b2-d57442fe428a" />
+      <img width="400" alt="Profile" src="https://github.com/user-attachments/assets/20a1012f-c04a-4998-919a-084178c54cff" />
     </td>
   </tr>
 </table>
