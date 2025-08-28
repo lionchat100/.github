@@ -30,6 +30,61 @@ Tokit은 멋쟁이사자처럼 전국 대학 해커톤 참가자들의 원활한
 - PWA 지원으로 네이티브 앱과 유사한 경험
 - 반응형 디자인 및 터치 최적화
 ---
+## 화면 구성
+### 유저
+<table>
+  <tr>
+    <td align="center"><strong>회원가입 & 온보딩</strong></td>
+    <td align="center"><strong>유저 프로필</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="400" alt="OAuth_Onboarding" src="https://github.com/user-attachments/assets/d02fa792-680d-42d7-9e53-eccd952abf87" />
+    </td>
+    <td align="center">
+      <img width="400" alt="Profile" src="https://github.com/user-attachments/assets/768c229c-316e-4c54-84b2-d57442fe428a" />
+    </td>
+  </tr>
+</table>
+
+### 사용자 탐색
+<table>
+  <tr>
+    <td align="center"><strong>사용자 탐색 & 좋아요</strong></td>
+    <td align="center"><strong>좋아요한 사람</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="400" alt="Eplore_like" src="https://github.com/user-attachments/assets/d5fdc74b-7fd9-4b91-9b7e-82a05e1543cd" />
+    </td>
+    <td align="center">
+      <img width="400" alt="Liked" src="https://github.com/user-attachments/assets/280247af-bd18-494f-9b75-f3496ee75223" />
+    </td>
+  </tr>
+</table>
+
+### 실시간 커뮤니케이션
+<table>
+  <tr>
+    <td align="center"><strong>채팅</strong></td>
+    <td align="center"><strong>게시판</strong></td>
+    <td align="center"><strong>알림</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="400" alt="Chat" src="https://github.com/user-attachments/assets/05b02d36-61bc-4356-8b6d-fbbeaabb8d04" />
+    </td>
+    <td align="center">
+      <img width="400" alt="Board" src="https://github.com/user-attachments/assets/d087142a-0086-49fa-a0d1-5551a8a67e52" />
+    </td>
+      <td align="center">
+      <img width="400" alt="Notify" src="https://github.com/user-attachments/assets/5858e370-fea8-4d25-adea-78390cfbe528" />
+    </td>
+  </tr>
+</table>
+
+
+---
 ## 코드 기여자
 
 | FE-LD 박상민                                      | FE 송하                                    | FE 권영우                               |
